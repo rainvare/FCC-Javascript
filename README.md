@@ -5,8 +5,11 @@
 
   <ul>
     <li>
-      <a href=">clase</a>
+      <a href="#golfJs">Programa de golf</a>
     </li>
+     <li>
+      <a href="#alpha">Programa de switch con respuestas</a>
+    </li>     
    </ul>
    
    
