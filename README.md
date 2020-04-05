@@ -9,7 +9,11 @@
     </li>
      <li>
       <a href="#alpha">Programa de switch con respuestas</a>
-    </li>     
+    </li>   
+  <li>
+    <a href="#collectionJS">Programa de colección de albumes</a>
+    </li> 
+    
    </ul>
    
    
