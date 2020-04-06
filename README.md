@@ -13,6 +13,9 @@
   <li>
     <a href="#collectionJS">Programa de colección de albumes</a>
     </li> 
+    <li>
+    <a href="#ECMAScript6RestParameter">ECMA ES6(estandarización de javascript) - Rest parameter /const </a>
+    </li> 
     
    </ul>
    
