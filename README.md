@@ -16,6 +16,10 @@
     <li>
     <a href="#ECMAScript6RestParameter">ECMA ES6(estandarización de javascript) - Rest parameter /const </a>
     </li> 
+    <li>
+    <a href="#ES6JsDes">ES6(estandarización de javascript) - desestructurar variables /const </a>
+    </li>
+    
     
    </ul>
    
