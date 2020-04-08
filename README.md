@@ -19,7 +19,9 @@
     <li>
     <a href="#ES6JsDes">ES6(estandarización de javascript) - desestructurar variables /const </a>
     </li>
-    
+    <li>
+    <a href="#thermostat">ES6(estandarización de javascript) - uso de class, constructor, getter y setter </a>
+    </li>
     
    </ul>
    
