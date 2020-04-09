@@ -26,7 +26,10 @@
     <a href="#exCharacter"> Regex - búsqueda de caracteres en una expresion regular</a>
     </li>
    </ul>
-   
+   <li>
+    <a href="#userCheck"> Regex - búsqueda de caracteres en una expresion regular - Verificacion de usurio</a>
+    </li>
+   </ul>
    
  </body>
  </html>
