@@ -22,7 +22,9 @@
     <li>
     <a href="#thermostat">ES6(estandarización de javascript) - uso de class, constructor, getter y setter </a>
     </li>
-    
+    <li>
+    <a href="#exCharacter"> Regex - búsqueda de caracteres en una expresion regular</a>
+    </li>
    </ul>
    
    
