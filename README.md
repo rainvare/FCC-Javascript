@@ -30,10 +30,15 @@
     <a href="#userCheck"> Regex - búsqueda de caracteres en una expresion regular - Verificacion de usuario</a>
     </li>
    </ul>
-   <li>
+<li>
     <a href="#estructurasDeDatosConES6"> Estructuras de datos con ES6</a>
     </li>
    </ul>
+   <li>
+    <a href="#iterarTodosLosElem"> Estructuras de datos - iterar todos los elementos de una matriz para verificarlos con for</a>
+    </li>
+   </ul>
+   
    
    
  </body>
