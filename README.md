@@ -27,9 +27,14 @@
     </li>
    </ul>
    <li>
-    <a href="#userCheck"> Regex - búsqueda de caracteres en una expresion regular - Verificacion de usurio</a>
+    <a href="#userCheck"> Regex - búsqueda de caracteres en una expresion regular - Verificacion de usuario</a>
     </li>
    </ul>
+   <li>
+    <a href="#estructurasDeDatosConES6"> Estructuras de datos con ES6</a>
+    </li>
+   </ul>
+   
    
  </body>
  </html>
