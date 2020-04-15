@@ -40,7 +40,10 @@
     <li>
     <a href="#reverseString"> algoritmos básicos - revertir una string</a>
     </li>
-    
+     </li>
+    <li>
+    <a href="#factorizacionNum"> algoritmos básicos - factorizacion de un numero</a>
+    </li>
    </ul>
    
    
