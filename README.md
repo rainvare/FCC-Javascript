@@ -37,7 +37,9 @@
      <li>
     <a href="#objIterarConFor"> Estructuras de datos - iterar un objeto con for para verificar sus propiedades</a>
     </li>
-    
+    <li>
+    <a href="#reverseString"> algoritmos básicos - revertir una string</a>
+    </li>
     
    </ul>
    
