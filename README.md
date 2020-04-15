@@ -38,7 +38,7 @@
     <a href="#objIterarConFor"> Estructuras de datos - iterar un objeto con for para verificar sus propiedades</a>
     </li>
     
-    objIterarConFor
+    
    </ul>
    
    
