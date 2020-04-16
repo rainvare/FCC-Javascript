@@ -44,6 +44,9 @@
     <li>
     <a href="#factorizacionNum"> algoritmos básicos - factorizacion de un numero</a>
     </li>
+    <li>
+    <a href="#longitudString"> algoritmos básicos - calcular la longitud de un string (devolviendo un numero)</a>
+    </li>
    </ul>
    
    
