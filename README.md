@@ -47,6 +47,9 @@
     <li>
     <a href="#longitudString"> algoritmos básicos - calcular la longitud de un string (devolviendo un numero)</a>
     </li>
+     <li>
+    <a href="#truncateString"> algoritmos básicos - truncar un string (si es mayor a cierta longitud)</a>
+    </li>
    </ul>
    
    
