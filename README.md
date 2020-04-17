@@ -50,6 +50,9 @@
      <li>
     <a href="#truncateString"> algoritmos básicos - truncar un string (si es mayor a cierta longitud)</a>
     </li>
+     <li>
+    <a href="#searchArr"> algoritmos básicos -  buscar un elemento en una matriz </a>
+    </li>
    </ul>
    
    
