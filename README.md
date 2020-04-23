@@ -56,6 +56,12 @@
      <li>
     <a href="#ownProperty"> Objetos - ownProperty </a>
     </li>
+    <li>
+    <a href="#constructorProperty"> Objetos - constructorProperty - para la verificacion de objeto creado con constructor </a>
+    </li>
+    
+    
+    
    </ul>
   
  </body>
