@@ -53,9 +53,10 @@
      <li>
     <a href="#searchArr"> algoritmos básicos -  buscar un elemento en una matriz </a>
     </li>
+     <li>
+    <a href="#ownProperty"> Objetos - ownProperty </a>
+    </li>
    </ul>
-   
-   
-   
+  
  </body>
  </html>
