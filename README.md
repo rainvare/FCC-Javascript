@@ -59,6 +59,11 @@
     <li>
     <a href="#constructorProperty"> Objetos - constructorProperty - para la verificacion de objeto creado con constructor </a>
     </li>
+     <li>
+    <a href="#closureVar"> Objetos - hacer privada una variable con el constructor, al agregar un método </a>
+    </li>
+    
+    
     
     
     
