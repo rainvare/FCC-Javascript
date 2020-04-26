@@ -62,6 +62,9 @@
      <li>
     <a href="#closureVar"> Objetos - hacer privada una variable con el constructor, al agregar un método </a>
     </li>
+    <li>
+    <a href="#windowsTab"> Programación funcional - windows tab </a>
+    </li>
     
     
     
