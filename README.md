@@ -65,7 +65,9 @@
     <li>
     <a href="#windowsTab"> Programación funcional - windows tab </a>
     </li>
-    
+    <li>
+    <a href="#map"> Programación funcional - iterar una matriz con map en lugar de for </a>
+    </li>
     
     
     
