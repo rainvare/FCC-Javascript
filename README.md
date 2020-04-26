@@ -71,6 +71,9 @@
     <li>
     <a href="#filter"> Programación funcional - crear una matriz con objetos selecionados por map, gracias a filter </a>
     </li>
+    <li>
+    <a href="#concat"> Programación funcional - concatenar matrices con concat </a>
+    </li>
     
     
     
