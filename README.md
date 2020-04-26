@@ -74,7 +74,9 @@
     <li>
     <a href="#concat"> Programación funcional - concatenar matrices con concat </a>
     </li>
-    
+    <li>
+    <a href="#reduce"> Programación funcional -iterar una variale con el metodo reduce </a>
+    </li>
     
     
    </ul>
