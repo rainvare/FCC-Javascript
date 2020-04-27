@@ -80,6 +80,15 @@
     <li>
     <a href="#squareIntegers"> Programación funcional -filtrar los números enteros positivos con filter, reduce o map </a>
     </li>
+    <li>
+    <a href="#sort"> Programación funcional -ordenar elementos de una matriz alfabeticamente con sort </a>
+    </li>
+     <li>
+    <a href="#splitString"> Programación funcional -dividir una cadena con split por digitos o espacios </a>
+    </li>
+    <li>
+    <a href="#currying"> Programación funcional -currying - hacer de una función de n arity, un de un solo arity </a>
+    </li>
     
     
     
