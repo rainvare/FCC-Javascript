@@ -77,6 +77,10 @@
     <li>
     <a href="#reduce"> Programación funcional -iterar una variale con el metodo reduce </a>
     </li>
+    <li>
+    <a href="#squareIntegers"> Programación funcional -filtrar los números enteros positivos con filter, reduce o map </a>
+    </li>
+    
     
     
    </ul>
